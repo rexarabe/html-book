@@ -1,1 +1,94 @@
+Introduction
+
+The internet has become an amazing place to shop, do your banking, look up homework assignments, and even keep track of your bowling league scores.
+Behind all those great applications are a bunch of different web technologies that must all work together to create the web experience you come to expect.
+
+You may think that creating web applications is best left for the professionals, but you'd be surprised by just how well you can do with just a little knowledge and experience!
+That's the point of this book.
+
+About this Book
+Think of this book as a reference book.
+Like the dictionary or an encyclopedia (remember those?), you don't have to read it from beginning to end.
+Instead, you can dip into the book to find the information you need and return to it again when you need more.
+That said, you won't be disappointed if you work through the book from beginning to end, and yu may find it easier to follow along with some of the examples.
+
+In this book, I walk you through all the different techonologies involved with creating dynamic web applications that can track data and present it in an orderly and pleasing manner.
+I cover several key topics that you'll need to know to create a full-featured, dynamic web application:
+
+Creating the basic layout of a web page: In this book, you see the program code behind placing content on a web page and reacting to your website visitors mouse clicks.
+
+Styling the web page: just placing data on a web page is boring. in this book, you learn how to use CSS to help use color, images, and placement to help liven up your web applications.
+
+Adding dynamic features: these days, having a static web page that just sits tehre doesn't get you many followers.
+This book shows you how to incorporate JavaScript to animate your web pages and provide dynamic features.
+
+Leveraging the power of the server: The PHP programming language allows you to harness the power behind the web server to dynamically generate web pages "on the fly" as your websiote visitors make choices.
+
+Storing data for the future: Just about every dynamics web application needs to store data, and in this book you learn exactly hos to do that using the MySQL server, which is commonly available in just about every web platform.
+
+Creating fill applications: many books throw a bunch of techonology at you and expect you to put the pieces together yourself.
+This book not only shows you the technology, but also demonstrates how all the parts fit together to create a dynamic web application.
+
+Using helper programs: No one is in island; everyone needs some help putting together those fancy web applications> There are plenty of tools to help you get the job done, and with this book you find out which tools will help you with which features of your application.
+
+
+Throughout this book you see sidebars (text in gray boxes) and material marked with the Technical Stuff icon.
+all of these things are skippable.
+If you have time and are interested, by all means read them, but if you don't or aren't, don't.
+
+Finally, within this book, you may note that some web addresses break across two lines of text.
+If you're reading this book in print and want to visit one of these web pages, simply key in the web address exactly as it's noted in the text, pretending as through the line break doesn't exist.
+if you're reading this as an e-book, you've got it easy - just click the web address to be taken directly to the web page.
+
+Foolish Assumptions
+You don't need any level of programming experience to enjoy this bhook and start creating your own web applications.
+Each chapter walks through all the basics you need to know and doesnt' assume you've ever coded before.
+As long as you're reasonably comfortable navigating your way around a standard desktop computer, you have all the experience you need!
+
+That said, if you've already tried your hand at web programing and you just want to fill a few holes, this book will work well for you, too!
+
+This book doesn't expect you to run out and buy any expensive software packages to start your web development career.
+All the tools that are used in the book are freely available open-source software.
+I walk you through how to set up a complete development environment, whether you're working in Microsoft Windows, Apple macOS, or Linux.
+
+See page 2 of PHP & MySQL for dummies
+
+I use some icons throughout the book to help you identify useful information.
+Here's what the icons are and what I use them for:
+
+Anything marked with the Tip icon provides some additional information about a topic to help you better understand what's going on behind the scenes or hot wo better use the feature discusses in the text.
+
+You don't have to commit this book to memory - there won't be a test.
+But every once in a while I tell you something so important that you should remember it.
+When I do, I mark it with the Remember icon.
+
+The Warning icon is there to point out potential pitfalls that can cause problems.
+If you want to save yourself a lot of time or trouble, heed these warnings.
+
+When you see the Techinical Stuff icon, be prepared to put your geek hat on.
+When I get into the weeds, I use the Technical Stuff icon.
+If you're not interested in these details, feel free to skiip these sections - you won't miss anything essential about the topic at hand.
+
+
+Beyond the Book
+In addition to the material in the print or e-book you're reading right now, you also get access to a free online Cheat Sheet filled with more tips and tricks on building a web application, including accessing any database from your PHP programs, filtereing data your program receives from web forms to block unwanted or potentially dangerous data, quickly finding data in a MySQL database, and tiggering JavaScrip events at predetermined times in a browser.
+To access this resource go to www.dummies.com and enter PHP, MySQL & JavaScript All-in-One for Dummies Cheat sheet in the search box.
+
+Where to Go from Here
+
+This book doesn't have to be read from beginning to end, so you can dive in wherever you want! use the Table of Contentns and Index to find subjects that interest you. If you already known Php and Javascript and you're just interest in learning how to create a dynamic web application from scratch, start out with book 6, Chapter1.
+If you're interested in lerning how to use one of the framework packages avaiblable for PHP, check ou book7, Chapter1.
+or, if you're interested in everything, start with Book 1, chapter1, and read until the very end.
+
+With the information in this book, you'll be ready to start creating your own dynamic web applications.
+Web programming is one of those skills that takes time and practice to get good at, so the more coding you can do, the better you'll get at it.
+To get some practice, you may want to offer your services for free at first, to build up a reputation.
+Find a needy nonprofit organization that you're interested in supporting and offer to work on its website.
+They'll get a great website, and you'll get a project to add to your resume!
+
+Don't stop learning! There are always new things coming out in the web world, even if you just stick to using the same software packages to develop your web applications.
+Stay plugged in to the PHP world by visiting the official PHP website at www.php.net or by visiting (and even participating in) one or more of the many php forums.
+Just do some Googling to find them.
+
+Enjoy yuor newfounds skills in devloping dynamic web applications!.
 
